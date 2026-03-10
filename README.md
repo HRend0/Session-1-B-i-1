@@ -12,4 +12,4 @@ Câu 2:
 - Mối quan hệ giữa các thực thể là:
   + Giảng viên - Lớp học phần: 1 Giảng viên có thể day nhiều Lớp học phần, 1 Lớp học phần có thể có nhiều Giảng viên tham gia giảng dạy do đó đây là mối quan hệ N-N.
   + Lớp học phần - Môn học: 1 Lớp học phần chỉ thuộc duy nhất 1 Môn học, 1 Môn học lại có thể có nhiều Lớp học phần do đó đây là mối quan hệ 1-N.
-  + Sinh viên - Lớp học phần (Đăng ký): 1 Sinh viên chỉ có thể đăng ký 1 lớp học phần trong học kỳ, 1 Lớp học phần có thể được nhiều Sinh viên đăng ký do đó đây là mối quan hệ N-1.
+  + Sinh viên - Lớp học phần (Đăng ký): 1 Sinh viên có thể đăng ký nhiều lớp học phần trong học kỳ, 1 Lớp học phần cũng có thể được nhiều Sinh viên đăng ký do đó đây là mối quan hệ N-N.
